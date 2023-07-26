@@ -1,0 +1,6 @@
+INFO 2023-07-26 14:48:54,056 autoreload 3132 4564 Watching for file changes with StatReloader
+INFO 2023-07-26 14:48:58,776 views 3132 5324 Страницу Main посетили
+INFO 2023-07-26 14:48:58,777 basehttp 3132 5324 "GET / HTTP/1.1" 200 127
+INFO 2023-07-26 14:49:17,026 basehttp 3132 10716 "GET /about HTTP/1.1" 301 0
+INFO 2023-07-26 14:49:17,037 views 3132 12112 Страницу About посетили
+INFO 2023-07-26 14:49:17,038 basehttp 3132 12112 "GET /about/ HTTP/1.1" 200 202
